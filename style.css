@@ -1,0 +1,39 @@
+*{
+  margin: 0px;
+  padding: 5px;
+}
+body{
+  background-color: black;
+  height: 100%;
+  width: 320px;
+}
+.boxes{
+  border: 5px solid red;
+  height: 100%;
+  width: 100%;
+}
+.box-one{
+  background-color: blue;
+  height: 5rem;
+}
+.name{
+  color: white;
+  padding-top:10px;
+  padding-left: 12px;
+  margin: ;
+  font-size: 50px;
+}
+.box-two{
+  background-color: white;
+  height: 3rem;
+  }
+.z{
+  padding-top:10px;
+  padding-left: 80px;
+}  
+
+.boxet{
+  border: 5px solid red;
+  height: 100%;
+  width: 100%;
+}
