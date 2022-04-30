@@ -73,3 +73,22 @@ img{
   padding-top:10px;
   padding-left: 80px;
 }
+
+
+.legit{
+  border: 5px solid red;
+  height: 100%;
+  width: 100%;
+}
+.legit-name{
+  padding: 0;
+  margin: 0;
+}
+.legit-two{
+  background-color: gold;
+  height: 3rem;
+  }
+.w{
+  padding-top:10px;
+  padding-left: 80px;
+}
