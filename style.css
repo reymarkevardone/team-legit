@@ -9,57 +9,65 @@ body{
 }
 .boxes{
   border: 5px solid red;
-  height: 100%;
-  width: 100%;
+  height: 20vh;
+  width: 100vw;
 }
 .box-one{
   background-color: blue;
-  height: 5rem;
+  height: 47%;
+  width: 99%;
 }
 .name{
   color: white;
   padding-top:10px;
-  padding-left: 12px;
-  margin: ;
-  font-size: 45px;
+  padding-left:90px;
+  font-size: 150px;
+  
 }
 .box-two{
   background-color: white;
-  height: 3rem;
+  height:9.5vh;
+  width: 99%;
+  overflow: hidden;
   }
 .z{
-  padding-top:10px;
-  padding-left: 80px;
+  padding-top:20px;
+  padding-left:210px;
+  font-size: 100px;
 }  
 
 .one{
   border: 5px solid red;
-  height: 100%;
-  width: 100%;
+  height: 25vh;
+  width: 100vw;
 }
 .one-name{
   padding: 0;
   margin: 0;
 }
+
+h2{font-size: 60px;
+   padding-left: 330px;
+  
+}
 img{
   margin: 0;
   padding:0;
-  height:100%;
-  width: 97%;
-  
+  height:380px;
+  width: 100%;
 }
+
 .one-two{
   background-color: white;
-  height: 3rem;
+  height: 4vh;
   }
 .y{
   padding-top:10px;
-  padding-left: 80px;
 }
 .two{
   border: 5px solid red;
-  height: 100%;
-  width: 100%;
+  height: 25vh;
+  width: 100vw;
 }
 .two-name{
   padding: 0;
@@ -67,18 +75,17 @@ img{
 }
 .two-two{
   background-color: white;
-  height: 3rem;
+  height: 4vh;
   }
 .x{
   padding-top:10px;
-  padding-left: 80px;
 }
 
 
 .legit{
   border: 5px solid red;
-  height: 100%;
-  width: 100%;
+  height: 25vh;
+  width: 100vw;
 }
 .legit-name{
   padding: 0;
@@ -86,9 +93,8 @@ img{
 }
 .legit-two{
   background-color: gold;
-  height: 3rem;
+  height: 4vh;
   }
 .w{
   padding-top:10px;
-  padding-left: 80px;
 }
